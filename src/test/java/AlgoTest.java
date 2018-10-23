@@ -16,7 +16,7 @@ public class AlgoTest {
 	SortDemoData answer = new SortDemoData();
 	
 	/*
-	 * The method is used to test bubble sort algorithm with test case 1 mentioned in the document.
+	 * The following method is used to test bubble sort algorithm with test case 1 mentioned in the document.
 	 * The goal is to achieve approx 90% node coverage, 75% condition and edge coverage for bubble sort method 
 	 * with this test case.
 	 * Test Case 1: {1, 2, 4, 7, 3, 5, 6}
